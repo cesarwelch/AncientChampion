@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/cesarwelch/AncientChampion/issues"
   },
-  "homepage": "https://github.com/cesarwelch/AncientChampion#readme"
+  "homepage": "https://github.com/cesarwelch/AncientChampion#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
